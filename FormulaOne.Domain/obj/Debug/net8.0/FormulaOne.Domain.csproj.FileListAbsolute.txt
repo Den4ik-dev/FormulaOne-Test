@@ -1,0 +1,11 @@
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Domain\bin\Debug\net8.0\FormulaOne.Domain.deps.json
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Domain\bin\Debug\net8.0\FormulaOne.Domain.dll
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Domain\bin\Debug\net8.0\FormulaOne.Domain.pdb
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Domain\obj\Debug\net8.0\FormulaOne.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Domain\obj\Debug\net8.0\FormulaOne.Domain.AssemblyInfoInputs.cache
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Domain\obj\Debug\net8.0\FormulaOne.Domain.AssemblyInfo.cs
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Domain\obj\Debug\net8.0\FormulaOne.Domain.csproj.CoreCompileInputs.cache
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Domain\obj\Debug\net8.0\FormulaOne.Domain.dll
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Domain\obj\Debug\net8.0\refint\FormulaOne.Domain.dll
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Domain\obj\Debug\net8.0\FormulaOne.Domain.pdb
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Domain\obj\Debug\net8.0\ref\FormulaOne.Domain.dll

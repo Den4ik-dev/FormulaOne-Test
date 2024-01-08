@@ -1,0 +1,15 @@
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\bin\Debug\net8.0\FormulaOne.Application.deps.json
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\bin\Debug\net8.0\FormulaOne.Application.dll
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\bin\Debug\net8.0\FormulaOne.Application.pdb
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\bin\Debug\net8.0\FormulaOne.Domain.dll
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\bin\Debug\net8.0\FormulaOne.Domain.pdb
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\obj\Debug\net8.0\FormulaOne.Application.csproj.AssemblyReference.cache
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\obj\Debug\net8.0\FormulaOne.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\obj\Debug\net8.0\FormulaOne.Application.AssemblyInfoInputs.cache
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\obj\Debug\net8.0\FormulaOne.Application.AssemblyInfo.cs
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\obj\Debug\net8.0\FormulaOne.Application.csproj.CoreCompileInputs.cache
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\obj\Debug\net8.0\FormulaOne.Application.csproj.CopyComplete
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\obj\Debug\net8.0\FormulaOne.Application.dll
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\obj\Debug\net8.0\refint\FormulaOne.Application.dll
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\obj\Debug\net8.0\FormulaOne.Application.pdb
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\video practice\Mohamad Lawand\ASP.NET Core Web Api 01\project\FormulaOne\FormulaOne.Application\obj\Debug\net8.0\ref\FormulaOne.Application.dll
